@@ -1,0 +1,27 @@
+{
+  "welcome_message": "👋 أهلاً دكتور محمد… مساعد المستشفى الذكي جاهز لخدمتك.",
+  
+  "languages_supported": [
+    "arabic",
+    "english",
+    "french",
+    "italian",
+    "amazigh"
+  ],
+
+  "commands": {
+    "start": "تشغيل البوت والترحيب بالمستخدم",
+    "help": "عرض أوامر المساعد الطبي",
+    "drug_info": "معلومات الأدوية وفق الدساتير العالمية",
+    "ai_consult": "استشارة طبية عبر الذكاء الاصطناعي",
+    "hospital_services": "خدمات مستشفى أمي الطبية"
+  },
+
+  "drug_sources": {
+    "us": "US FDA Drug Database",
+    "sweden": "FASS Sweden",
+    "france": "VIDAL France",
+    "arabic": "Arab Pharmacopoeia",
+    "who": "WHO Essential Medicines List"
+  }
+}
